@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  Test
-//
-//  Created by Lieu Hong Nhiep on 16/7/25.
-//
-
 #include <iostream>
 using namespace std;
 
